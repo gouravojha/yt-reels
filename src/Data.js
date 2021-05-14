@@ -1,0 +1,26 @@
+const reels = [
+    "https://www.youtube.com/embed/mj2tBdPRvhg?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/pENq7o-lMZQ?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/gf8g0Bef7zQ?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/7_8rxO8fVrg?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/z6d8Dv_f-GE?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/6JVCzYh12MI?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/ZJ7L8zhlpNA?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/PS6oPbNhulg?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/bW9OFNA2xt4?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/TfKYRKCXeuo?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/Darj5rsJgx8?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/H6gUojEod6w?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/aKQf3rZ_1Oo?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/SdnONZ3vGzw?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/DrEfOzLf0aY?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/bjXjad1uQzA?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/bJ-UW3mxJUw?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/1uPfUXEGQbI?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/dgm7T94RefE?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/gvKdiwAmz1g?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/ZHpOtSKH4-w?showinfo=0&loop=1",
+    "https://www.youtube.com/embed/34p4HRQSfSc?showinfo=0&loop=1",
+]
+
+export default reels  
